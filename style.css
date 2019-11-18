@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Red+Hat+Display:500&display=swap");
+body{
+	background-color: red;
+}
+h1{
+	font-size: 33px;
+}
+
+h2{
+	font-size: 30px;
+}
